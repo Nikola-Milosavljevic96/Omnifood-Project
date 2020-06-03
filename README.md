@@ -1,2 +1,1 @@
-#OMNIFOOD - FOOD DELIVERY SERVICE
-# Booking-hotel-rooms
+# Omnifood - food deliverz service
