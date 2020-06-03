@@ -1,1 +1,1 @@
-# Omnifood - food deliverz service
+# Omnifood - food delivery service
